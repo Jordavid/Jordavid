@@ -18,7 +18,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>✒️ Proyectos Recientes </h2>
 <ul>
-<li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href="https://github.com/Jordavid/Challenge_AluraGeek">Challenge_AluraGeek</a></li>
 <h2>⚡️ Redes Sociales</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/jordavid" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
